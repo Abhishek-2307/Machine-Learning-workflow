@@ -1,0 +1,2 @@
+# Machine-Learning-workflow
+Deploying machine learning models in production seems easy with modern tools, but often ends in disappointment as the model performs worse in production than in development. Digging deep into the cutting edge of sklearn, and dealing with real-life datasets from hot areas like personalized healthcare and cybersecurity, this reveals a view of machine learning from the frontline.
